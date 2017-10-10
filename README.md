@@ -14,9 +14,11 @@ Get your tickets here: mozillafestival.org.
 
 Photogrammetry is the art, science and technology of gathering reliable information about the world around us. This is done through taking serveral photographs of an object or space of interest and collating the images using an algorithm. The algorithm then constructs an 3D model using this information. Computer vision refers to the methods a computer uses to acquire, process and analyze digital imagery. Consequently, in order for photogrammetry to work, a computer must use computer vision to process the images taken through the scans and, through the algorithm, analyze these images to create the resulting 3D model. 
 
-## If you can’t make it to the Mozilla Festival, but would like to participate, you can still try DIY photogrammetry! 
+## If you can’t make it to the Mozilla Festival, but would like to participate, you can still try DIY photogrammetry. 
 
-So you want to try photogrammetry, that's awesome! Here are some tips and tricks. 
+So you want to try photogrammetry, that's awesome! Here are some apps which allow you to scan yourself as well as tips and tricks. 
+
+
 
 
 
