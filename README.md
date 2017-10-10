@@ -26,9 +26,9 @@ So you want to try photogrammetry, that's awesome! Here are some apps which allo
 
 Great! Upload your scan to Sketchfab, mention us on Twitter at @mypaere with the hashtag #afroscanned2017 and we'll add it to our installation for Mozilla Festival. 
 
-<strong>Participating events and conferences where you can get scanned.</strong>
+<em>Participating events and conferences where you can get scanned.</em>
 
-<em>Black Speculative Arts Movement</em> October 21, 2017. Toronto, Canada.
-<em>Mozilla Festival</em> October 27-19, 2017. London, UK. 
-</em>Make Change Conference</em> November 12, 2017. Toronto, Canada. 
+<strong>Black Speculative Arts Movement</em> October 21, 2017. Toronto, Canada.</br>
+<strong>Mozilla Festival</strong> October 27-19, 2017. London, UK. </br>
+<strong>Make Change Conference</strong> November 12, 2017. Toronto, Canada. </br>
 
