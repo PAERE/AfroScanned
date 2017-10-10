@@ -16,8 +16,13 @@ Photogrammetry is the art, science and technology of gathering reliable informat
 
 ## If you can’t make it to the Mozilla Festival, you can still try DIY photogrammetry!
 
-So you want to try photogrammetry, that's awesome! Here are some apps which allow you to scan yourself as well as tips and tricks. 
+So you want to try photogrammetry, that's awesome! Here are some apps which allow you to scan yourself. 
 
+<em>Scann3d</em>
+<em>Recap 360</em>
+<em></em>
+
+<strong>Tips and tricks</strong> 
 
 
 
