@@ -26,7 +26,7 @@ So you want to try photogrammetry, that's awesome! Here are some software and ap
 <strong>The Scanning Space</strong> </br>
 <em><strong>1</strong></em> Generally, we advise scanning with your phone, computer or ipad about 1-2 metres away from you.</br>
 <em><strong>2</strong></em> Ensure the space is well lit--the camera needs to see you clearly and uniformly. These means no backlighting and no other objects such as chairs or tables should be in the camera's view. </br>
-<em><strong>3</strong></em> When capturing the scans, ensure the images overlap much like a panormic view. This provides for imformation for the algorithm to render a better model. </br>
+<em><strong>3</strong></em> When capturing the scans, ensure the images overlap much like a panormic view. This provides more information for the algorithm to render a better model. </br>
 
 <strong>Tips and Tricks </strong></br>
 Reflective objects generally do not scan well. Save the reflective clothing for bicycling at night! </br>
