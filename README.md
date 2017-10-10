@@ -28,7 +28,7 @@ Great! Upload your scan to Sketchfab, mention us on Twitter at @mypaere with the
 
 <em>Participating events and conferences where you can get scanned.</em>
 
-<strong>Black Speculative Arts Movement</em> October 21, 2017. Toronto, Canada.</br>
+<strong>Black Speculative Arts Movement</strong> October 21, 2017. Toronto, Canada.</br>
 <strong>Mozilla Festival</strong> October 27-19, 2017. London, UK. </br>
 <strong>Make Change Conference</strong> November 12, 2017. Toronto, Canada. </br>
 
