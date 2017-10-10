@@ -8,7 +8,7 @@ We invite you to 3D scan yourself, so we can add it our display at the Mozilla F
 
 Alternatively, join us at the Mozfest! We will be providing a workshop for participants to learn about photogrammetry; following this introduction, participants will have a chance to 3D scan themselves. 
 
-Get your tickets <a href="https://www.mozillafestival.org>here</a>.
+Get your tickets <a href="https://www.mozillafestival.org">here</a>.
 
 ## What is photogrammetry? What is computer vision? How do they work together? 
 
