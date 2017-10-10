@@ -18,10 +18,10 @@ Photogrammetry is the art, science and technology of gathering reliable informat
 
 So you want to try photogrammetry, that's awesome! Here are some software and apps which allow you to scan yourself. 
 
-<em>Scann3d</em></br>
-<em>Recap 360</em></br>
-<em>Trnio</em></br> 
-<em>Kinect Pro</em></br>
+<em><a href="http://scann3d.smartmobilevision.com/"Scann3d</a></em></br>
+<em><a href="https://www.autodesk.com/products/recap/overview">Recap 360</a></em></br>
+<em><a href="http://www.trnio.com/">Trnio</a></em></br> 
+<em><a href="https://developer.microsoft.com/en-us/windows/hardware/3d-print/scanning-with-kinect">Kinect Pro</a></em></br>
 
 <strong>The Scanning Space</strong> </br>
 <em><strong>1</strong></em> Generally, we advise scanning with your phone, computer or ipad about 1-2 metres away from you.</br>
