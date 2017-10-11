@@ -34,7 +34,7 @@ Stand on a white sheet, it will help the camera place you in physical space when
 
 ## Love your scan? Be part of our installation! 
 
-Great! Upload your scan to Sketchfab, mention us on Twitter at @mypaere with the hashtag #afroscanned2017 and we'll add it to our installation for Mozilla Festival. 
+Great! Upload your scan to Sketchfab, mention us on Twitter at @mypaere with the hashtag #afroscanned2017 and we'll add it to our installation. 
 
 <em>Participating events and conferences where you can get scanned.</em>
 
