@@ -41,5 +41,5 @@ Great! Upload your scan to Sketchfab, mention us on Twitter at @mypaere with the
 <strong><a href="https://www.facebook.com/events/287021985148478">Merril Collection Tour</a></strong> October 14, 2017. Toronto Public Library. Toronto, Canada.</br>
 <strong><a href="https://www.facebook.com/blackSpeculativeArtsMovement/">Black Speculative Arts Movement</a></strong> October 21, 2017. University of Toronto. Toronto, Canada.</br>
 <strong><a href="mozillafestival.org">Mozilla Festival</a></strong> October 27-19, 2017. Ravensbourne College. London, UK. </br>
-<strong><a href="http://makechangeconference.com/">Make Change Conference</a></strong> November 12, 2017. Design Exchange. Toronto, Canada. </br>
+<strong><a href="https://www.eventbrite.ca/e/make-change-conference-2017-tickets-37917079004">Make Change Conference</a></strong> November 12, 2017. Design Exchange. Toronto, Canada. </br>
 <strong><a href="http://todesignoffsite.com/">Toronto Offsite Design Festival<a/></strong> January 15-21, 2018. BAND Gallery. Toronto, Canada.</br>
