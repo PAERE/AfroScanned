@@ -1,5 +1,5 @@
 # AfroScanned
-AfroScanned is an art installation which explores photogrammetric computer vision and colour as related to race and colour in film.
+AfroScanned is an art installation which explores photogrammetric computer vision and colour as it relates to race and colour in film.
 
 ## Welcome! 
 Thanks to advances in computer vision and photogrammetry, it is now possible to explore what it feels like to create second virtual selves. AfroScanned seeks to expand diverse representations of people online and, in the future, renditions of humanness in digital formats. 
