@@ -12,7 +12,7 @@ Get your tickets <a href="https://www.mozillafestival.org">here</a>.
 
 ## What is photogrammetry? What is computer vision? How do they work together? 
 
-Photogrammetry is the technology of gathering reliable information about the world around us through digital imagery. This is done through a process of taking serveral digital images of an object or space of interest and collating the images using an algorithm. The algorithm then constructs an 3D model using this information. Computer vision refers to the methods a computer uses to acquire, process and analyze digital imagery. Consequently, in order for photogrammetry to work, a computer must use computer vision to process the digital images taken through the scans and, through the algorithm, analyze these images to create the resulting 3D model. 
+Photogrammetry is the technology of gathering reliable information about the world around us through digital imagery. This is done through a process of taking several digital images of an object or space of interest and collating the images using an algorithm. The algorithm then constructs an 3D model using this information. Computer vision refers to the methods a computer uses to acquire, process and analyze digital imagery. Consequently, in order for photogrammetry to work, a computer must use computer vision to process the digital images taken through the scans and, through the algorithm, analyze these images to create the resulting 3D model. 
 
 ## If you can’t make it to the Mozilla Festival, you can still try DIY photogrammetry!
 
